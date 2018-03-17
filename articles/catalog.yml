@@ -4,10 +4,10 @@ PREDEF:
 
 CHAPS:
 # 4.　技術書オンリー+コミケ　参加のメリット
-  - 04-attendEvent.re
+  - 01)04-attendEvent.re
 
 # 4 イベント参加のメリットとネタだしに関連する感じですがうまく編集していただければ！！
-  - output.re
+  - 02)output.re
 
 # 5.　ネタ出し法
   - 05-thinkScript.re
@@ -72,8 +72,6 @@ CHAPS:
 APPENDIX:
 
 # なにか付録があれば
-# 3.　この本の執筆環境について
-  - 01-writing.re
 
 # Re:VIEWのインストール（Windows7編）
   - sec-windows7-installation.re
