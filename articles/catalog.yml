@@ -1,33 +1,33 @@
 PREDEF:
 # 1.　この本の目的
-  - preface.re
+  - 00x1xpreface.re
 
 CHAPS:
 # 4.　技術書オンリー+コミケ　参加のメリット
-  - 01)04-attendEvent.re
+  - 01x04-attendEvent.re
 
 # 4 イベント参加のメリットとネタだしに関連する感じですがうまく編集していただければ！！
-  - 02)output.re
+  - 02xoutput.re
 
 # 5.　ネタ出し法
-  - 05-thinkScript.re
+  - 03x05-thinkScript.re
 
 # 　・本のスタイル（サイズ、印刷方法）に関して考える。
-  - book-style.re
+  - 04xbook-style.re
 
 # 表紙を作る
-  - frontcover.re
-  - sec-cover.re
+  - 05xfrontcover.re
+  - 06xsec-cover.re
 
 # 6.　執筆環境について：本文を書くので、ここ。
-  - writing.re
+  - 07xwriting.re
 
 # 図を埋め込む（MacOS編）
   - sec-image.re
 # 図を埋め込む（Windows 7編）
   - sec-image-win7.re
 # ノンブルについて
-  - sec-nombre.re
+  - 10xsec-nombre.re
 
 # 7.　印刷業者に頼むためのTips
 # 印刷所に発注するために必要なこと。
@@ -84,7 +84,7 @@ APPENDIX:
 
 POSTDEF:
 # 16.　あとがき
-  - postscript.re
+#  - postscript.re
 
 # 17.　執筆者一覧
   - contributors.re
