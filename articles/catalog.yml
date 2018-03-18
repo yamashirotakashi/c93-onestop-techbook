@@ -20,7 +20,7 @@ CHAPS:
   - 06xsec-cover.re
 
 # 6.　執筆環境について：本文を書くので、ここ。
-  - writing.re
+  - 07xwriting.re
 
 # 図を埋め込む（MacOS編）
   - sec-image.re
