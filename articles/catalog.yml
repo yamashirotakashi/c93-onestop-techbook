@@ -1,16 +1,16 @@
 PREDEF:
 # 1.　この本の目的
-  - preface.re
+  - 00x1xpreface.re
 
 CHAPS:
 # 4.　技術書オンリー+コミケ　参加のメリット
-  - 01)04-attendEvent.re
+  - 01x04-attendEvent.re
 
 # 4 イベント参加のメリットとネタだしに関連する感じですがうまく編集していただければ！！
-  - 02)output.re
+  - 02xoutput.re
 
 # 5.　ネタ出し法
-  - 05-thinkScript.re
+  - 03x05-thinkScript.re
 
 # 　・本のスタイル（サイズ、印刷方法）に関して考える。
   - book-style.re
