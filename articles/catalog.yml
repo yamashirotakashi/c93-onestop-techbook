@@ -16,8 +16,8 @@ CHAPS:
   - 04xbook-style.re
 
 # 表紙を作る
-  - frontcover.re
-  - sec-cover.re
+  - 05xfrontcover.re
+  - 06xsec-cover.re
 
 # 6.　執筆環境について：本文を書くので、ここ。
   - writing.re
@@ -84,7 +84,7 @@ APPENDIX:
 
 POSTDEF:
 # 16.　あとがき
-  - postscript.re
+#  - postscript.re
 
 # 17.　執筆者一覧
   - contributors.re
