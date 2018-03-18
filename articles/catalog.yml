@@ -13,7 +13,7 @@ CHAPS:
   - 03x05-thinkScript.re
 
 # 　・本のスタイル（サイズ、印刷方法）に関して考える。
-  - book-style.re
+  - 04xbook-style.re
 
 # 表紙を作る
   - frontcover.re
