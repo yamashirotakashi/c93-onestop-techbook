@@ -23,9 +23,9 @@ CHAPS:
   - 07xwriting.re
 
 # 図を埋め込む（MacOS編）
-  - sec-image.re
+  - 08xsec-image.re
 # 図を埋め込む（Windows 7編）
-  - sec-image-win7.re
+  - 09xsec-image-win7.re
 # ノンブルについて
   - 10xsec-nombre.re
 
@@ -40,34 +40,34 @@ CHAPS:
   - 12xprepare.re
 
 # 9.　当日朝、開場までの準備
-  - 09-morning.re
+  - 13x09-morning.re
 
 # 10.　開催中のTips
 # 　・イベント中のオペレーション体制
 # 　・ワンオペ時の回し方
-  - 10-eventTips.re
+  - 14x10-eventTips.re
 
 # 11.　イベント終わってからやること
 
-  - 11-afterevent.re
+  - 15x11-afterevent.re
 
 
 # 13.　委託しよう　ZIN委託もここに書く
-  - 13-booth.re
+  - 16x13-booth.re
 
 # 14.　コミュニティに参加する
 # 　・もくもく会とか。
-  - 14-Meetup.re
+  - 17x14-Meetup.re
 
 # 15.　お金の話
 # 　・印刷費用と頒布価格、イベント収支
-  - 15-aboutMoney.re
+  - 18x15-aboutMoney.re
 
 # 15. 税金の話を独立。
-  - aboutTax.re
+  - 19xaboutTax.re
 
 # 16.　次の締切を手に入れる&モチベーションの話。
-  - 16-tempTopix.re
+  - 20x16-tempTopix.re
 
 APPENDIX:
 
@@ -84,7 +84,7 @@ APPENDIX:
 
 POSTDEF:
 # 16.　あとがき
-#  - postscript.re
+  - postscript.re
 
 # 17.　執筆者一覧
   - contributors.re
